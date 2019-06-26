@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
 import './App.css'
+import Jumbotron from './components/Jumbotron'
+import cards from './cards.json'
 
 // // shuffling cards function 
 // function shuffleCards(array) {

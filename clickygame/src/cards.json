@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1, 
+        "image": "aggretsuko.png"
+    },
+    {
+        "id": 2, 
+        "image": "chibiMaru.gif"
+    },
+    {
+        "id": 3, 
+        "image": "chocoCat.png"
+    },
+    {
+        "id": 4, 
+        "image": "cinnamaroll.jpg"
+    },
+    {
+        "id": 5, 
+        "image": "gudetama.jpg"
+    },
+    {
+        "id": 6, 
+        "image": "helloKitty.jpg"
+    },
+    {
+        "id": 7, 
+        "image": "keroppi.png"
+    },
+    {
+        "id": 8, 
+        "image": "maru.png"
+    },
+    {
+        "id": 9, 
+        "image": "myMelody.jpg"
+    },
+    {
+        "id": 10, 
+        "image": "pochacco.jpg"
+    },
+    {
+        "id": 11, 
+        "image": "pompompurin.jpg"
+    },
+    {
+        "id": 12, 
+        "image": "tuxedoSam.jpg"
+    },
+    {
+        "id": 13, 
+        "image": "twinStars.png"
+    }
+]
